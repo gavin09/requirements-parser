@@ -3,6 +3,10 @@ Changelog
 
 <!--next-version-placeholder-->
 
+## v0.5.1 (2022-12-24)
+### Fix
+* Only install files in package directory ([`94f9a2a`](https://github.com/gavin09/requirements-parser/commit/94f9a2aef0f95365267cf5544efeec6580ab8a47))
+
 ## v0.5.0 (2022-01-20)
 ### Feature
 * Support all documented options in requirements files #62 ([#63](https://github.com/madpah/requirements-parser/issues/63)) ([`f92c0c0`](https://github.com/madpah/requirements-parser/commit/f92c0c079bce03b1860c78852d2c8c48cf32d539))
